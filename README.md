@@ -159,17 +159,26 @@ Here are some key features and instructions on how to use them:
 | ![18- settings](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/add52e9d-805d-4240-bb10-0cf40e0c99d6) |
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------
 
 
 ### Teacher Dashboard
 
+![1- teacher dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/5f739e5e-ce46-436a-82d4-47a61959ae6f)
 
+----------------------------------------------------------------------------------------------------------------------------------
 
+### Parent Dashboard
+
+![1- parent dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/7902900a-66d1-4a36-bb60-936caf30a83c)
+
+----------------------------------------------------------------------------------------------------------------------------------
 
 ### Student Dashboard
 
+![1- student dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/dbf5354f-f6b5-449e-98af-d4bed539d5a8)
 
 
-### Parent Dashboard
+
+
 
