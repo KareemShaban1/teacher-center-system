@@ -2,7 +2,7 @@
 Welcome to the Teacher Center System! This README file will guide you through the setup and usage of this Laravel project. The Teacher Center System is a web application designed to help teachers manage their classes, students, assignments, and grades.
 
 
-# Usage
+## Usage
 Here are some key features and instructions on how to use them:
 
 ### Authentication
