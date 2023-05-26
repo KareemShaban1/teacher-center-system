@@ -5,12 +5,20 @@ Welcome to the Teacher Center System! This README file will guide you through th
 # Usage
 Here are some key features and instructions on how to use them:
 
-- Authentication
-Register a new teacher account by clicking on the "Register" link on the login page. (in progress) .
-Log in using your credentials on the login page.
-Forgot your password? Use the "Forgot Password" link on the login page to reset it. (in progress). 
+### Authentication
+  - Log in using your credentials on the login page (admin - teacher - parent - student).
+  
+| Admin Login            | Teacher Login             | Parent Login               | Student Login               |
+| ---------------------- | ----------------------    | -------------------------  | -----------------------     |
+|![0- admin login](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/433c70de-658b-41da-baad-85391631064f)| ![0- teacher login](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a92d5f17-ff24-4fe5-9ea6-d06f8a7b17c2) | ![0- parent login](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/f04330f4-6615-4480-9081-d39596c04ea9) | ![0- student login](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/9939a8e1-2015-4c4a-ade1-7a2a247deebf)|
 
-## Admin Dashboard
+
+
+
+
+  - Forgot your password? Use the "Forgot Password" link on the login page to reset it. (in progress). 
+
+### Admin Dashboard
 
 ![1- dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/daf48e89-b3d8-4fc8-85a4-f84e0645679b)
 
@@ -154,14 +162,14 @@ Forgot your password? Use the "Forgot Password" link on the login page to reset 
 
 
 
-## Teacher Dashboard
+### Teacher Dashboard
 
 
 
 
-## Student Dashboard
+### Student Dashboard
 
 
 
-## Parent Dashboard
+### Parent Dashboard
 
