@@ -113,6 +113,44 @@ Forgot your password? Use the "Forgot Password" link on the login page to reset 
 
 
 
+- Announcements (الأعلانات)
+  - To manage Announcements, go to the "Announcements" section in the navigation menu.
+  - Announcements are things we can use to announce students section / group what we want .
+  - Here, you can add , edit , delete Announcements.
+
+| Announcements            | Add Announcement            | Edit Announcement            |
+| ----------------------   | ----------------------      | -------------------------    |
+| ![14- announcements](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/f6ee898b-9aa7-4d3d-b93b-a4e9903f7024) |   ![14- add announcement](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/824c73dc-e8d4-4623-9e45-152ab855d749)|   ![14- edit announcement](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/71960101-7ff5-4555-a7b3-3a1af40e00db)|
+
+
+- Books (الكتب)
+  - To manage Books, go to the "Books" section in the navigation menu.
+  - Here, you can add , edit , delete Books.
+
+| Books                    | Add Book                    | Edit Book                    |
+| ----------------------   | ----------------------      | -------------------------    |
+| ![15- books](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/0487e08a-ac23-48f1-985c-0034b020f119) | ![15- add book](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/7fa50772-3de9-41b6-b3f4-969900ee0247)  |![15- edit book](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/0a0695c2-00a8-484e-a507-94a6c8ac1a08) |
+
+
+- Online Classes (حصص أونلاين) with zoom
+  - To manage Online Classes, go to the "Online Classes" section in the navigation menu.
+  - Here, you can add , edit , delete Online Classes.
+
+| Online Classes           | Add Online Class            | Delete Online Classe         |
+| ----------------------   | ----------------------      | -------------------------    |
+|  ![17- online classes](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/624b0897-6b57-4b65-abd2-980bace2a330) | ![17- add online class](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/2a483e23-b58c-4c88-914e-f87ebf53b094) |   ![17- delete online class](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/4fa61380-5ebc-4541-8067-2fb48796863d) |
+
+
+
+- Settings (الأعدادات)
+  - To manage Settings, go to the "Settings" section in the navigation menu.
+  - Here, you can edit system Settings.
+
+| Edit Settings            | 
+| ----------------------   | 
+| ![18- settings](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/add52e9d-805d-4240-bb10-0cf40e0c99d6) |
+
+
 
 
 
