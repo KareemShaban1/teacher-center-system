@@ -137,7 +137,8 @@ Here are some key features and instructions on how to use them:
 
 | Books                    | Add Book                    | Edit Book                    |
 | ----------------------   | ----------------------      | -------------------------    |
-| ![15- books](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/0487e08a-ac23-48f1-985c-0034b020f119) | ![15- add book](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/7fa50772-3de9-41b6-b3f4-969900ee0247)  |![15- edit book](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/0a0695c2-00a8-484e-a507-94a6c8ac1a08) |
+| ![15- books](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/0487e08a-ac23-48f1-985c-0034b020f119) | ![15- add book](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/7fa50772-3de9-41b6-b3f4-969900ee0247)  |![15- edit book](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/0a0695c2-00a8-484e-a507-94a6c8ac1a08) |![4 profile](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/99bc423e-5271-492f-8f29-473f89ab030b)
+
 
 
 - Online Classes (حصص أونلاين) with zoom
@@ -170,7 +171,52 @@ Here are some key features and instructions on how to use them:
 
 ### Parent Dashboard
 
-![1- parent dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/7902900a-66d1-4a36-bb60-936caf30a83c)
+- Dashboard
+
+![1 dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/eefa3c54-58f6-4480-bc1d-11a66b0228f9)
+
+
+- Parent sons
+
+| Parent sons            |                                   |
+| ---------------------- |  -------------------------------- |
+| ![2 sons](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/c363fd93-8c1f-4095-a5f6-968b6bac3748) | ![2_1 sons](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a34075e8-2e3c-44b4-bf0f-6ecde3604dde) |
+
+- Son attendance
+
+| Son attendance         |
+| ---------------------- | 
+| ![2_2 student_attendance](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a80ec407-433e-401e-b5b4-c3a4403c9bfe) | 
+
+- Son Fees
+
+| Son Fees               |
+| ---------------------- | 
+| ![2_3 student_fees](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a6905534-eebc-41d8-8af8-cde984eacddf)| 
+
+
+- Son Quiz
+
+| Son Quiz               |
+| ---------------------- | 
+|  ![2_4 student_quiz](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/acda6d63-3cdf-4cc1-9250-3f97cc8075b5) |
+
+
+- Son Exam
+
+| Son Exam               |
+| ---------------------- | 
+| ![2_5 student_exam](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/2a09df4c-0edb-4bfb-9e9e-0cbca0b669f2)| 
+
+- Parent Profile
+
+| Parent Profile         |
+| ---------------------- | 
+|  ![4 profile](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/3ce0da7f-ba73-41a0-8c23-fd639ffd67cc) |
+
+
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
