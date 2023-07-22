@@ -10,7 +10,7 @@ Here are some key features and instructions on how to use them:
   
 | Admin Login            | Teacher Login             | Parent Login               | Student Login               |
 | ---------------------- | ----------------------    | -------------------------  | -----------------------     |
-|![0- admin login](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/433c70de-658b-41da-baad-85391631064f)| ![0- teacher login](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a92d5f17-ff24-4fe5-9ea6-d06f8a7b17c2) | ![0- parent login](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/f04330f4-6615-4480-9081-d39596c04ea9) | ![0- student login](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/9939a8e1-2015-4c4a-ade1-7a2a247deebf)|
+| ![1_admin_dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/7d509f05-f595-434f-bc0c-6ad5b4a455fc) | ![4_teacher_dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/b3736533-20af-40a6-90da-8d089359d8f6)| ![2_parent_dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/9948469b-bb31-40f3-942e-17a6e0faf6f9) | ![3_student_dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/b9c21076-956a-4007-9300-b8860ca39d5b)|
 
 
 
@@ -20,7 +20,7 @@ Here are some key features and instructions on how to use them:
 
 ### Admin Dashboard
 
-![1- dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/daf48e89-b3d8-4fc8-85a4-f84e0645679b)
+![1_admin_dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/66d3ffb6-c8b2-44ec-a357-01dbcfe01479)
 
 
 - Grades (المراحل الدراسية)
