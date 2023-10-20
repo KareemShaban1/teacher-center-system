@@ -5,6 +5,12 @@ Welcome to the Teacher Center System! This README file will guide you through th
 ## Usage
 Here are some key features and instructions on how to use them:
 
+### Landing Page
+
+| Landing Page      |
+| ![landing_page](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/ca76c149-c1a2-4fe6-9b06-b7cfc751244b)  |
+
+
 ### Authentication
   - Log in using your credentials on the login page (admin - teacher - parent - student).
   
