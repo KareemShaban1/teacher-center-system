@@ -144,4 +144,131 @@ Login options for:
 
 ---
 
-Do you want the same format for Teacher, Parent, and Student dashboards? I can continue with the exact image layout for those sections too.
+----------------------------------------------------------------------------------------------------------------------------------
+
+
+### Teacher Dashboard
+
+![1- teacher dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/5f739e5e-ce46-436a-82d4-47a61959ae6f)
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+### Parent Dashboard
+
+- Dashboard
+
+![1 dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/eefa3c54-58f6-4480-bc1d-11a66b0228f9)
+
+
+- Parent sons
+
+| Parent sons            |                                   |
+| ---------------------- |  -------------------------------- |
+| ![2 sons](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/c363fd93-8c1f-4095-a5f6-968b6bac3748) | ![2_1 sons](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a34075e8-2e3c-44b4-bf0f-6ecde3604dde) |
+
+- Son attendance
+
+| Son attendance         |
+| ---------------------- | 
+| ![2_2 student_attendance](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a80ec407-433e-401e-b5b4-c3a4403c9bfe) | 
+
+- Son Fees
+
+| Son Fees               |
+| ---------------------- | 
+| ![2_3 student_fees](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a6905534-eebc-41d8-8af8-cde984eacddf)| 
+
+
+- Son Quiz
+
+| Son Quiz               |
+| ---------------------- | 
+|  ![2_4 student_quiz](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/acda6d63-3cdf-4cc1-9250-3f97cc8075b5) |
+
+
+- Son Exam
+
+| Son Exam               |
+| ---------------------- | 
+| ![2_5 student_exam](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/2a09df4c-0edb-4bfb-9e9e-0cbca0b669f2)| 
+
+- Parent Profile
+
+| Parent Profile         |
+| ---------------------- | 
+|  ![4 profile](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/3ce0da7f-ba73-41a0-8c23-fd639ffd67cc) |
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+
+### Student Dashboard
+
+- Dashboard
+  
+![1- student dashboard](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/dbf5354f-f6b5-449e-98af-d4bed539d5a8)
+
+- Exams
+  - every student can see his exam degree and notes .
+  
+| Exams                 |
+| ---------------------- | 
+| ![2 exams](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/d5211fe9-2c6a-4f7c-9d55-51594e3f98b7) | 
+
+- Quiz
+  - every student can see his quiz degree and notes .
+  
+| Quiz                   |
+| ---------------------- | 
+| ![3 quiz](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/1fc2f966-ad9d-4645-a9f9-77d9f6663121) | 
+
+- Fees
+  - every student can see his montthly fees .
+  
+| Fees                   |
+| ---------------------- | 
+| ![4 fees](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/b70d3aec-4d44-4ad0-a7ec-637e435a96ce) | 
+
+
+- Attendance
+  - every student can see his attendance .
+  
+| Attendance             |
+| ---------------------- | 
+| ![5 attendance](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/e0bab45e-3be0-48de-8512-48e32bd1d423) | 
+
+
+
+- Books
+  - every student can see his groups books .
+  
+| Books                  |
+| ---------------------- | 
+| ![6 books](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/bd8e80c0-7f78-4205-bb37-aab7afb24a74)| 
+
+
+- Online Classes
+  - every student can see his online Classes (if exists) .
+  
+| Online Classes         |
+| ---------------------- | 
+| ![7 online classes](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/c16cba08-0894-4bef-aaad-10a98a7398d1)| 
+
+
+- Announcements
+  - every student can see his announcements .
+  
+| Announcements          |
+| ---------------------- | 
+| ![8 announcements](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/4ebec9d3-a57d-4927-9d46-d9052c08c1da)| 
+
+
+
+- Profile
+  - every student can see his profile .
+  
+| Profile             |
+| ---------------------- | 
+| ![9 profile](https://github.com/KareemShaban1/teacher-center-system/assets/42013687/a4451baa-9aca-4368-98f8-7d8195413456)|    
